@@ -28,6 +28,8 @@
 	60% {transform: translate(300px, 500px);}
 	70% {transform: translate(50px, 500px);}
 	80% {transform: translate(500px, 500px);}
+	90% {opacity: 1; transform: translate(500px, 500px);}
+	100% {opacity: 0; transform: translate(500px, 500px);}
 }
 
 
@@ -41,4 +43,6 @@
 	60% {transform: translate(500px, 300px);}
 	70% {transform: translate(500px, 50px);}
 	80% {transform: translate(500px, 500px);}
+	90% {opacity: 1; transform: translate(500px, 500px);}
+	100% {opacity: 0; transform: translate(500px, 500px);}
 }
